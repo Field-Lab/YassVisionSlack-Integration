@@ -7,8 +7,8 @@ A bash script based integration of spike sorting package Yass, Vision and Slack 
 
 ### Documentation
 
-Proceed to the Wiki tab above for further details. 
+Proceed to the [Wiki](https://github.com/Field-Lab/YassVisionSlack-Integration/wiki) tab above for further details. 
 
 ### Issues  
 
-Post issues encountered during run, code bugs and comments for general improvement under Issues tab above. 
+Issues encountered during run, code bugs and comments for general improvement, can be posted in the [Issues] (https://github.com/Field-Lab/YassVisionSlack-Integration/issues) tab above. 
