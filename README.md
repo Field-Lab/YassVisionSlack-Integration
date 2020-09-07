@@ -11,4 +11,4 @@ Proceed to the [Wiki](https://github.com/Field-Lab/YassVisionSlack-Integration/w
 
 ### Issues  
 
-Issues encountered during run, code bugs and comments for general improvement, can be posted in the [Issues] (https://github.com/Field-Lab/YassVisionSlack-Integration/issues) tab above. 
+Issues encountered during run, code bugs and comments for general improvement, can be posted in the [Issues](https://github.com/Field-Lab/YassVisionSlack-Integration/issues) tab above. 
